@@ -1,0 +1,29 @@
+﻿h1{
+    align-content:center;
+}
+
+h3{
+    align-content:center;
+}
+
+#confirmation {
+    text-decoration-color:red;
+
+}
+
+#bannerPage{
+    
+}
+
+#submit{
+    float:right;
+}
+
+#thankyouSubmit{
+    float:right;
+}
+
+body{
+    /*background-image:url("bkgr.jpg");*/
+    background-color:#D5D5D5;
+}
